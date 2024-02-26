@@ -22,9 +22,9 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#000000"
-     inkscape:zoom="0.83509311"
-     inkscape:cx="596.34069"
-     inkscape:cy="576.58241"
+     inkscape:zoom="0.83509312"
+     inkscape:cx="538.86206"
+     inkscape:cy="459.23022"
      inkscape:window-width="2560"
      inkscape:window-height="1377"
      inkscape:window-x="-8"
@@ -34,21 +34,14 @@
      showgrid="false" />
   <defs
      id="defs1" />
-  <g
-     id="g3"
-     transform="matrix(0.94255374,0,0,0.94255374,28.72313,28.72313)"
-     style="stroke-width:50;stroke-dasharray:none">
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="M 500,6.3505502 V 993.64945"
-       id="path2" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="M 927.51296,746.82472 72.487036,253.17528"
-       id="path2-1" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-       d="M 72.487039,746.82473 927.51296,253.17527"
-       id="path3" />
-  </g>
+  <path
+     style="fill:#000000;fill-opacity:0.558887;stroke:#ffffff;stroke-width:50;stroke-linecap:round;stroke-linejoin:round"
+     d="M 40,960 H 960"
+     id="path2"
+     sodipodi:nodetypes="cc" />
+  <path
+     style="fill:none;fill-opacity:0.558887;stroke:#ffffff;stroke-width:50;stroke-linecap:round;stroke-linejoin:round"
+     d="M 40,500 500,40 960,500"
+     id="path2-5"
+     sodipodi:nodetypes="ccc" />
 </svg>

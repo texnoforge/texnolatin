@@ -4,43 +4,139 @@ This is a reference [TexnoMagic](https://texnoforge.github.io/texnomagic/) alpha
 
 Part of [Words of Power](https://texnoforge.dev/words-of-power/) project.
 
-Status: **DRAFT**
+Status: **alpha**
 
 
 ## Symbols
 
-### fire - ignis
+Symbol names are based on latin.
 
-![fire](symbols/fire/image/symbol.svg)
+All symbols contain SVG images created in Inkscape (`image/symbol.svg`).
 
-### ice - gelu
 
-![ice](symbols/ice/image/symbol.svg)
+**24** symbols:
+
+* [ignis (fire)](#ignis-fire)
+* [gelu (ice)](#gelu-ice)
+* [aqua (water)](#aqua-water)
+* [aer (air)](#aer-air)
+* [fulgur (electro)](#fulgur-electro)
+* [terra (earth)](#terra-earth)
+* [vita (life)](#vita-life)
+* [mortem (death)](#mortem-death)
+* [sagitta (bolt)](#sagitta-bolt)
+* [sphaera (ball)](#sphaera-ball)
+* [spatium (space)](#spatium-space)
+* [conus (cone)](#conus-cone)
+* [torrens (beam)](#torrens-beam)
+* [ego (self)](#ego-self)
+* [amica (friend)](#amica-friend)
+* [hostis (enemy)](#hostis-enemy)
+* [prope (close)](#prope-close)
+* [procul (far)](#procul-far)
+* [fortis (strong)](#fortis-strong)
+* [infirmus (weak)](#infirmus-weak)
+* [magnus (big)](#magnus-big)
+* [parvus (small)](#parvus-small)
+* [celer (fast)](#celer-fast)
+* [tardus (slow)](#tardus-slow)
+
+### ignis (fire)
+
+![ignis (fire)](symbols/fire/image/symbol.svg)
+
+### gelu (ice)
+
+![gelu (ice)](symbols/ice/image/symbol.svg)
 
 1 [drawings](symbols/ice/drawings)
 
-### water - aqua
+### aqua (water)
 
-![water](symbols/water/image/symbol.svg)
+![aqua (water)](symbols/water/image/symbol.svg)
 
-### air - aer
+### aer (air)
 
-![air](symbols/air/image/symbol.svg)
+![aer (air)](symbols/air/image/symbol.svg)
 
-### electro - fulgur
+### fulgur (electro)
 
-![electro](symbols/electro/image/symbol.svg)
+![fulgur (electro)](symbols/electro/image/symbol.svg)
 
 2 [drawings](symbols/electro/drawings)
 
-### earth - terra
+### terra (earth)
 
-![earth](symbols/earth/image/symbol.svg)
+![terra (earth)](symbols/earth/image/symbol.svg)
 
-### life - vita
+### vita (life)
 
-![life](symbols/life/image/symbol.svg)
+![vita (life)](symbols/life/image/symbol.svg)
 
-### death - mortem
+### mortem (death)
 
-![death](symbols/death/image/symbol.svg)
+![mortem (death)](symbols/death/image/symbol.svg)
+
+### sagitta (bolt)
+
+![sagitta (bolt)](symbols/bolt/image/symbol.svg)
+
+### sphaera (ball)
+
+![sphaera (ball)](symbols/ball/image/symbol.svg)
+
+### spatium (space)
+
+![spatium (space)](symbols/space/image/symbol.svg)
+
+### conus (cone)
+
+![conus (cone)](symbols/cone/image/symbol.svg)
+
+### torrens (beam)
+
+![torrens (beam)](symbols/beam/image/symbol.svg)
+
+### ego (self)
+
+![ego (self)](symbols/self/image/symbol.svg)
+
+### amica (friend)
+
+![amica (friend)](symbols/friend/image/symbol.svg)
+
+### hostis (enemy)
+
+![hostis (enemy)](symbols/enemy/image/symbol.svg)
+
+### prope (close)
+
+![prope (close)](symbols/close/image/symbol.svg)
+
+### procul (far)
+
+![procul (far)](symbols/far/image/symbol.svg)
+
+### fortis (strong)
+
+![fortis (strong)](symbols/strong/image/symbol.svg)
+
+### infirmus (weak)
+
+![infirmus (weak)](symbols/weak/image/symbol.svg)
+
+### magnus (big)
+
+![magnus (big)](symbols/big/image/symbol.svg)
+
+### parvus (small)
+
+![parvus (small)](symbols/small/image/symbol.svg)
+
+### celer (fast)
+
+![celer (fast)](symbols/fast/image/symbol.svg)
+
+### tardus (slow)
+
+![tardus (slow)](symbols/slow/image/symbol.svg)
