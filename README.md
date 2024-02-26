@@ -23,7 +23,7 @@ All symbols contain SVG images created in Inkscape (`image/symbol.svg`).
 * [fulgur (electro)](#fulgur-electro)
 * [terra (earth)](#terra-earth)
 * [vita (life)](#vita-life)
-* [mortem (death)](#mortem-death)
+* [mors (death)](#mors-death)
 * [sagitta (bolt)](#sagitta-bolt)
 * [sphaera (ball)](#sphaera-ball)
 * [spatium (space)](#spatium-space)
@@ -73,9 +73,9 @@ All symbols contain SVG images created in Inkscape (`image/symbol.svg`).
 
 ![vita (life)](symbols/life/image/symbol.svg)
 
-### mortem (death)
+### mors (death)
 
-![mortem (death)](symbols/death/image/symbol.svg)
+![mors (death)](symbols/death/image/symbol.svg)
 
 ### sagitta (bolt)
 
