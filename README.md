@@ -2,9 +2,32 @@
 
 This is a reference [TexnoMagic](https://texnoforge.github.io/texnomagic/) alphabet.
 
-Part of [Words of Power](https://texnoforge.dev/words-of-power/) project.
+It's expected to become a default alphabet for
+[Words of Power](https://texnoforge.dev/words-of-power/) project.
 
-Status: **alpha**
+View this alphabet online: [wop.texnoforge.dev/abc/texnolatin](https://wop.texnoforge.dev/abc/texnolatin) 👀
+
+Help with gathering training data by **drawing symbols online**: [train.texnoforge.dev](https://train.texnoforge.dev/) 🎨
+
+
+## Status: alpha
+
+* initial set of **24** symbols
+* all symbols have **SVG** image
+
+**Please help** with gathering training data by **drawing symbols** in the comfort of your browser:
+
+[train.texnoforge.dev](https://train.texnoforge.dev/)
+
+Thanks a lot! 🧙
+
+
+## License
+
+This entire repository is licensed under [CC0](LICENSE) which is fairly close
+to public domain.
+
+You're free to use this and you're very welcome to contribute.
 
 
 ## Symbols
@@ -12,6 +35,7 @@ Status: **alpha**
 Symbol names are based on latin.
 
 All symbols contain SVG images created in Inkscape (`image/symbol.svg`).
+
 
 
 **24** symbols:
